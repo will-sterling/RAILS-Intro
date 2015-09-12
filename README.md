@@ -1,9 +1,8 @@
 # RAILS-Intro
-##Course Exercise3
-###Say Hello!
+##  Course Exercise3 - Say Hello!
 
 
-"Hello World" in RAILS
+### "Hello World" in RAILS
 
 1. Create new Git branch for our changes
   1. git branch exercise3
@@ -17,7 +16,7 @@
 6. Git add and commit your changes
 
 
-Set the root of our App to Welcome by adding a route.
+### Set the root of our App to Welcome by adding a route.
 1. Open config/routes.rb
 2. Uncomment the line 'root 'welcome#index'
 3. Go to the root of your app http://ruby-on-rails-xxxxxxx.nitrousapp.com:3000/
