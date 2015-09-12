@@ -8,8 +8,8 @@
 1. Clone your copy of blog repo to Nitrous container.
 1. Change into blog directory
 1. Create new working branch to make changes in.
-  1. create new branch exercise2
-  1. checkout branch exercise2
+  1. create new branch exercise2, 'git branch exercise2'
+  1. checkout branch exercise2, 'git checkout exercise2'
 1. Change directories back up to blog's parent directory.
 1. Create a new RAILS App!
   1. rails new blog -d postgresql
@@ -21,3 +21,6 @@
   1. git add -A
   1. git commit -m "Initial commit"
   1. Checkout master branch, merge branch exercise2 to master
+    2. git checkout master
+    3. git merge exercise2
+  2. push to Github, 'git push'
