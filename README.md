@@ -14,7 +14,8 @@
 1. Create a new RAILS App!
   1. rails new blog -d postgresql
   1. change into blog directory
-  1. rails s -b 0.0.0
+  2. rake db:create
+  1. rails s -b 0.0.0.0
   1. Click preview select port 3000
 1. Looks good?  Commit your changes!
   1. git add -A
