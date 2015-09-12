@@ -1,8 +1,7 @@
 # RAILS-Intro
-##Course Exercise3
-###Lets push to Heroku!
-1. heroku login
-1. heroku create, note app name.
+##Course Exercise4 - Lets push to Heroku!
+1. Login to heroku using acount you created before class, 'heroku login'
+1. Create a heroku app to publish your RAILS app in 'heroku create', note app name.
 1. Update DB configuration
   1. Edit config/database.yml
   2. Go to the bottom of the file and replace the production config with:
